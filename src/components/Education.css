@@ -1,0 +1,46 @@
+.titless {
+    text-align: center;
+    font-size: 4em;
+    font-style: oblique;
+    font-weight: bold;
+    color: black;
+    margin: 1.5em 0 1em 0;
+}
+
+.titless hr {
+    margin-top: 10px;
+    border-top: 6px dashed black;
+    width: 150px;
+}
+
+.edu_exp p {
+    font-size: 25px;
+    text-align: left;
+    font-style: oblique;
+    color: black;
+}
+
+.date p {
+    margin-bottom: 3.5em;
+    font-size: 25px;
+    text-align: left;
+    font-style: oblique;
+    color: deepskyblue;
+    font-weight: bold;
+}
+
+.uni p {
+    font-size: 25px;
+    text-align: left;
+    font-style: oblique;
+    color: orange;
+    font-weight: bold;
+}
+
+.expe p {
+    font-size: 25px;
+    text-align: left;
+    font-style: oblique;
+    color: peru;
+    font-weight: bold;
+}

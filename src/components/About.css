@@ -1,0 +1,71 @@
+.header-image {
+    width: 100%;
+    margin-top: -2em;
+    margin-bottom: 2em;
+}
+
+.about-pics {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.first_pic {
+    margin: 0 1em 1em 0;
+    margin-top: 2em;
+    width: 300px;
+    height: 200px;
+}
+
+.second_pic {
+    margin: 0 1em 1em 0;
+    margin-top: 2em;
+    width: 300px;
+    height: 200px;
+}
+
+.third_pic {
+    margin: 0 1em 6em 0;
+    margin-top: 2em;
+    width: 300px;
+    height: 200px;
+}
+
+.about-profile-picsss {
+    margin: 0 1em 1em 0;
+    margin-top: 2em;
+    width: 300px;
+    height: 200px;
+}
+
+.titles {
+    margin: 1.5em 0 1em 0;
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+    font-style: oblique;
+    text-shadow: 1px 1px 2px rgb(209, 230, 18);
+    color: white;
+}
+
+.titles hr {
+    margin-top: 10px;
+    border-top: 6px dashed white;
+    width: 150px;
+}
+
+.info-myself p {
+    font-size: 35px;
+    text-align: left;
+    font-style: italic;
+    color: azure;
+}
+
+.space p {
+    margin-bottom: 0.5em;
+    font-size: 35px;
+    text-align: left;
+    font-style: italic;
+    color: azure;
+}

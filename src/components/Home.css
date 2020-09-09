@@ -1,0 +1,48 @@
+.jumbotron {
+    background-color: rgba(153, 153, 153, 0.863);
+    margin-top: 3em;
+    margin-bottom: 1em;
+    padding: auto;
+}
+
+.person-wrapper {
+    margin-bottom: 5em;
+}
+
+.profile-pic {
+    margin-top: 3em;
+    width: 20%;
+    height: 20em;
+    background-color: white;
+}
+
+Image {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 30px;
+    color: aqua;
+}
+
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+
+.social-links i {
+    color: rgba(224, 173, 79, 0.973);
+    font-size: 4.5em;
+    padding: 8px;
+}
+
+.social-links i:hover {
+    color: white;
+}

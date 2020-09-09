@@ -1,0 +1,101 @@
+.sidebar-section img {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.projects-grid {
+    display: flex;
+    margin: 4em 5em 3em 0em;
+    Width: 70em;
+    max-width: 345;
+}
+
+.entire-card {
+    width: 20em;
+    height: 33em;
+    padding-bottom: 24em;
+    margin-bottom: 2em;
+    margin-right: 5em;
+}
+
+.entire-card-2 {
+    width: 20em;
+    height: 33em;
+    padding-bottom: 24em;
+    margin-bottom: 0em;
+    margin-right: 5em;
+}
+
+.info p {
+    font-size: 18px;
+}
+
+.info h2 {
+    font-size: 18px;
+}
+
+.projects-image {
+    height: 18em;
+}
+
+.projects-image:hover {
+    opacity: 0.6;
+    border-bottom-color: transparent;
+    transform: scale(1.1, 1.1);
+}
+
+hr {
+    margin-top: 1em;
+    margin-bottom: 0em;
+}
+
+.title {
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+    margin: 1.5em 0 1em 0;
+}
+
+.title hr {
+    margin-top: 10px;
+    border-top: 6px dashed black;
+    width: 150px;
+}
+
+.social_link i {
+    font-size: 3em;
+    color: aquamarine;
+}
+
+.project-detail img {
+    display: flex;
+    padding-bottom: 4.5em;
+    margin: 0 auto;
+}
+
+.project-detail h2 {
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+.project-detail p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.project-detail i {
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.icon {
+    text-align: right;
+    margin: 1em 2em 0em 0em;
+    cursor: pointer;
+}

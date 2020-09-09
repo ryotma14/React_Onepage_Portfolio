@@ -1,0 +1,16 @@
+.contact {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.contact i {
+    color: rgba(219, 200, 90, 0.89);
+    font-size: 6em;
+}
+
+.contact p {
+    margin: 1em 5em 3em 5em;
+    padding-bottom: 1em;
+    font-size: 20px;
+}

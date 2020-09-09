@@ -1,0 +1,14 @@
+.location {
+    text-align: center;
+    font-size: 3em;
+    font-style: oblique;
+    font-weight: bold;
+    color: black;
+    margin: 1.5em 0 1em 0;
+}
+
+.location hr {
+    margin-top: 10px;
+    border-top: 5px dashed black;
+    width: 150px;
+}
