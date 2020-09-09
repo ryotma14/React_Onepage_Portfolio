@@ -50,9 +50,9 @@ export default function Projects(pros) {
               <CardMedia
                 className="projects-image"
                 component="img"
-                alt="Contemplative Reptile"
+                alt="Project image"
                 height="140"
-                image="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
+                image="https://user-images.githubusercontent.com/34767371/92565210-a178a300-f2bd-11ea-94a6-7fc638ebc79e.jpg"
                 title="project1"
                 onClick={handleClickOpen}
               />
@@ -78,9 +78,9 @@ export default function Projects(pros) {
               <CardMedia
                 className="projects-image"
                 component="img"
-                alt="Contemplative Reptile"
+                alt="Project image"
                 height="140"
-                image="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
+                image="https://user-images.githubusercontent.com/34767371/92567587-4052ce80-f2c1-11ea-820d-6fbbcd6a41c5.png"
                 title="project2"
                 onClick={handleClickOpen_2}
               />
@@ -113,13 +113,11 @@ export default function Projects(pros) {
             {infoPro === 1 &&
 
               <List>
-                <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
+                <img src="https://user-images.githubusercontent.com/34767371/92565210-a178a300-f2bd-11ea-94a6-7fc638ebc79e.jpg"
                   alt="project screenshot" width="40%" height="105%" />
-                <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
+                <img src="https://user-images.githubusercontent.com/34767371/92565525-1fd54500-f2be-11ea-8eb3-a92661393f91.jpg"
                   alt="project screenshot" width="40%" height="105%" />
-                <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
-                  alt="project screenshot" width="40%" height="105%" />
-                <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
+                <img src="https://user-images.githubusercontent.com/34767371/92565527-206ddb80-f2be-11ea-9757-c22c2679864e.jpg"
                   alt="project screenshot" width="40%" height="105%" />
 
                 <h2>Tools/libraries used in this project:</h2>
@@ -138,19 +136,21 @@ export default function Projects(pros) {
 
               <List>
 
-                <img src="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"
-                  width="40%" height="105%" />
-                {/* <img src ="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"  
-     　　　width="40%" height="105%"/>
-     <img src ="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"  
-     　　　width="40%" height="105%"/>
-     <img src ="https://scontent.fcbr1-1.fna.fbcdn.net/v/t1.0-9/s960x960/117308059_2655735998015568_5020608313336683312_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=O9JThzWjyb0AX9Urkt7&_nc_ht=scontent.fcbr1-1.fna&_nc_tp=7&oh=f1428e70a850ba5f3d845debb6b96c8c&oe=5F572FA1"  
-     　　　width="40%" height="105%"/> */}
+                <img src="https://user-images.githubusercontent.com/34767371/92567587-4052ce80-f2c1-11ea-820d-6fbbcd6a41c5.png"
+                  alt = "Project screenshot" width="40%" height="105%" />
+                <img src="https://user-images.githubusercontent.com/34767371/92567670-5b254300-f2c1-11ea-8cf6-abea77ec808f.png"
+                  alt = "Project screenshot" width="40%" height="105%" />
+                <img src="https://user-images.githubusercontent.com/34767371/92567750-7d1ec580-f2c1-11ea-81cc-3973dcc39b71.png"
+                  alt = "Project screenshot" width="40%" height="105%" />
+                <img src="https://user-images.githubusercontent.com/34767371/92567766-8445d380-f2c1-11ea-92f4-842725d3bc88.png"
+                  alt = "Project screenshot" width="40%" height="105%" />
+
+
 
                 <h2>Tools/libraries used in this project:</h2>
-                <p>React Bootstrap</p>
-                <p>MATERIAL-UI</p>
-                <p>React Scroll</p>
+                <p>react-router-dom</p>
+                <p>react-chartjs-2</p>
+                <p>ag-grid-react</p>
                 <p>Font Awesome</p>
                 <p> <i class="far fa-times-circle fa-1x" onClick={handleClose}>Close</i> </p>
               </List>
