@@ -66,8 +66,8 @@ export default function Projects(pros) {
               </CardContent>
             </CardActionArea>
             <CardActions className="social_link">
-              <Button href="https://github.com/ryotma14/react-onepage-website" target="_blank"> <i className="fab fa-github" aria-hidden="true" /></Button>
-              <Button href="https://codesandbox.io/s/crazy-poitras-4orog" target="_blank"> <i className="fab fa-codepen" aria-hidden="true" /></Button>
+              <Button href="https://github.com/ryotma14/React_Onepage_Portfolio.git" target="_blank"> <i className="fab fa-github" aria-hidden="true" /></Button>
+              <Button href="https://codesandbox.io/s/tender-cookies-4sfj9" target="_blank"> <i className="fab fa-codepen" aria-hidden="true" /></Button>
             </CardActions>
           </Card>
 
@@ -94,8 +94,8 @@ export default function Projects(pros) {
               </CardContent>
             </CardActionArea>
             <CardActions className="social_link">
-              <Button href="https://github.com/ryotma14/react-onepage-website" target="_blank"> <i className="fab fa-github" aria-hidden="true" /></Button>
-              <Button href="https://github.com/ryotma14/react-onepage-website" target="_blank"> <i className="fab fa-codepen" aria-hidden="true" /></Button>
+              <Button href="https://github.com/ryotma14/React_StockSearch.git" target="_blank"> <i className="fab fa-github" aria-hidden="true" /></Button>
+              <Button href="https://codesandbox.io/s/silly-kare-f2t88" target="_blank"> <i className="fab fa-codepen" aria-hidden="true" /></Button>
             </CardActions>
           </Card>
         </div>
