@@ -29,7 +29,7 @@ export default function Home(pros) {
                 </a>
 
                 {/* Instagram */}
-                <a href="https://www.instagram.com/mr14love/" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.instagram.com/" rel="noopener noreferrer" target="_blank">
                   <i class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
 
